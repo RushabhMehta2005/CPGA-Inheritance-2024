@@ -36,7 +36,7 @@
 
 - [GitHub Repository](https://github.com/RushabhMehta2005/CPGA-Inheritance-2024/)
 - [Demo Video]()
-- [Drive Link to Screenshots of your project]()
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/u/1/folders/176fHL_eJ-oFeT9k1P8DHrwd0aishzSx6)
 
 ## 🤖Tech-Stack
 
@@ -44,7 +44,7 @@ Mention all languages/libraries/frameworks used in your project **domain-wise**
 You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
-- <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width=20 height=20>HTML
+- HTML
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" width=20 height=20>Tailwind CSS
 - Daisy UI, react-toastify (notifications)
 - Chart.js, Recharts
@@ -82,7 +82,8 @@ List down all the partially implemented features in your project
   - monitoring your progress through data
 ## 🛠Project Setup
 
-For the Web-App 1.Clone the GitHub repo.
+For the Web-App 
+1.Clone the GitHub repo.
 ```bash
 git clone https://github.com/RushabhMehta2005/CPGA-Inheritance-2024/
 ```
