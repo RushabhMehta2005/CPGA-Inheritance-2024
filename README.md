@@ -44,7 +44,7 @@ Mention all languages/libraries/frameworks used in your project **domain-wise**
 You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
-- HTML
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width=20 height=20>HTML
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" width=20 height=20>Tailwind CSS
 - Daisy UI, react-toastify (notifications)
 - Chart.js, Recharts
