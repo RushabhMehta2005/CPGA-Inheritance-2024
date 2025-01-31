@@ -83,6 +83,7 @@ List down all the partially implemented features in your project
 ## 🛠Project Setup
 
 For the Web-App 
+
 1.Clone the GitHub repo.
 ```bash
 git clone https://github.com/RushabhMehta2005/CPGA-Inheritance-2024/
