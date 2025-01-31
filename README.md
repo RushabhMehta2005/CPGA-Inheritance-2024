@@ -120,5 +120,5 @@ Add names of your mentors with their emails and links to their GitHub accounts
 
 ## 📱Screenshots
 
-![Screenshot alt text]( "screenshot")
+![Screenshot alt text]<img src="https://drive.google.com/file/d/1fAoT0sN7IJxFD0dXHm-ECA-rDKCuk7uh/view?usp=drive_link" width="50" height="50">
 
