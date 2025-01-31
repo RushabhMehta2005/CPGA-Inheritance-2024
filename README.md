@@ -29,7 +29,15 @@
 </details>
 
 ## 📝Description
-
+<p>CPGA is a competitive programming guide and ananlyser where users can improve their DSA and CP skills through the use of this website's features such as:
+  <ul>
+  <li>Combined statistics across multiple platforms such as Codeforces, CodeChef, Leetcode, etc. to get a complete understanding of your level.</li>
+    <li>Daily practice problems recommended based on your preferred topics and skill level.</li>
+    <li>Leaderboard ranking of users based on the number of daily problems solved.</li>
+    <li>Discussion Page where people can ask annd answer doubts and learn.</li>
+    <li>Chatbot that also helps in solving doubts</li>
+  </ul>
+</p>
 
 
 ## 🔗Links
@@ -44,16 +52,18 @@ Mention all languages/libraries/frameworks used in your project **domain-wise**
 You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
-- HTML
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width=20 height=20>HTML
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" width=20 height=20>Tailwind CSS
 - Daisy UI, react-toastify (notifications)
 - Chart.js, Recharts
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" width=20 height=20>React
-- Lucid-react (icons)
+- Lucide-react (icons)
 
 #### Back-end
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" width=20 height=20>NodeJS
+- <img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" width=20 height=20>ExpressJS
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/puppeteer.svg" width=20 height=20>Puppeteer
+- LLama
 
 #### Database
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" width=20 height=20>MongoDB
