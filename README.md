@@ -43,7 +43,7 @@
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/RushabhMehta2005/CPGA-Inheritance-2024/)
-- [Demo Video]()
+- [Demo Video](https://www.youtube.com/watch?v=s6eg3S1Hh3Q)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/u/1/folders/176fHL_eJ-oFeT9k1P8DHrwd0aishzSx6)
 
 ## 🤖Tech-Stack
@@ -63,14 +63,15 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" width=20 height=20>NodeJS
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" width=20 height=20>ExpressJS
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/puppeteer.svg" width=20 height=20>Puppeteer
-- LLama
+- <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" width=20 height=20>LLama
+
 
 #### Database
 - <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" width=20 height=20>MongoDB
 
 ## 📈Progress
 
-List down all the fully implemented features in your project
+List of all the fully implemented features in your project
 - Home page with statistical data about your competitive programming profiles like Codeforces, Codechef, Leetcode
 - Daily problem suggestions based on your preferences and skill level
 - Discussion page to ask doubts to more experienced programmers
@@ -78,12 +79,12 @@ List down all the fully implemented features in your project
 - Leaderboard based on number of daily problems practiced
 - Profile page with all your data for quick reference
 
-List down all the partially implemented features in your project
+List of all the partially implemented features in your project
 - Fine tuned chatbot for CP questions
 ## 🔮Future Scope
 - Can add 'reputation points' for users who answer queries in discussion reliably
 - Can add other platforms like GeeksForGeeks, AtCoder etc
-- Interactive IDE for collaborative problem solving
+- Interactive IDE for collaborative problem solving 
 
 ## 💸Applications
 - To enhance and speed up your competitive programming journey with the help of
@@ -130,5 +131,13 @@ Add names of your mentors with their emails and links to their GitHub accounts
 
 ## 📱Screenshots
 
-<img src="https://drive.google.com/file/d/1fAoT0sN7IJxFD0dXHm-ECA-rDKCuk7uh/view?usp=drive_link" width="50" height="50">
+![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_Activity_Chart.jpg)
+
+![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_DailyProblems.jpg)
+
+![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_Discussion_Page.jpg)
+
+![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_Landing_Page.jpg)
+
+![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_Profile.jpg)
 
