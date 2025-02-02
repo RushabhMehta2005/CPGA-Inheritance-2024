@@ -133,6 +133,8 @@ Add names of your mentors with their emails and links to their GitHub accounts
 
 ![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_Activity_Chart.jpg)
 
+![Screenshot_alt_text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_ChatBot.jpg)
+
 ![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_DailyProblems.jpg)
 
 ![Screenshot alt text](https://github.com/v1shJ/CPGA-Inheritance-2024/blob/main/Screenshots/CPGA_Discussion_Page.jpg)
